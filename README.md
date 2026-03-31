@@ -32,7 +32,7 @@ Technical Specifications
 
     Query Complexity: O(n + m) for intersections and unions using the Two-Pointer approach.
 
-    Data Structures: Custom-built MyList, MyMap, and MySet implementations for complete control over the execution environment.
+    Data Structures: Custom-built Lists, BSTs implementations for complete control over the execution environment.
 
 Usage and Customization
 
