@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/MC/Documents/NetBeansProjects/searchEngine/src/searchengine/InvertedIndex.java</file>
+            <file>file:/C:/Users/MC/Documents/NetBeansProjects/searchEngine/src/searchengine/Document.java</file>
+            <file>file:/C:/Users/MC/Documents/NetBeansProjects/searchEngine/src/searchengine/StopWordLoader.java</file>
+            <file>file:/C:/Users/MC/Documents/NetBeansProjects/searchEngine/src/searchengine/MyMap.java</file>
+            <file>file:/C:/Users/MC/Documents/NetBeansProjects/searchEngine/src/searchengine/BooleanQueryProcessor.java</file>
+            <file>file:/C:/Users/MC/Documents/NetBeansProjects/searchEngine/src/searchengine/MyList.java</file>
+            <file>file:/C:/Users/MC/Documents/NetBeansProjects/searchEngine/src/searchengine/Index.java</file>
+            <file>file:/C:/Users/MC/Documents/NetBeansProjects/searchEngine/src/searchengine/SearchEngine.java</file>
+            <file>file:/C:/Users/MC/Documents/NetBeansProjects/searchEngine/src/searchengine/RankedRetrievalProcessor.java</file>
+            <file>file:/C:/Users/MC/Documents/NetBeansProjects/searchEngine/src/searchengine/TreeNode.java</file>
+            <file>file:/C:/Users/MC/Documents/NetBeansProjects/searchEngine/src/searchengine/MySet.java</file>
+            <file>file:/C:/Users/MC/Documents/NetBeansProjects/searchEngine/src/searchengine/TextProcessor.java</file>
+        </group>
+    </open-files>
+</project-private>
