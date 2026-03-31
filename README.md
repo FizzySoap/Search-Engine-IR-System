@@ -25,7 +25,7 @@ The system utilizes a "Reverse Index" (Inverted Index) to map terms to their occ
     Text Normalization: Includes a TextProcessor for regex-based cleaning, including punctuation removal and case-insensitivity.
 
     Stop-word Filtering: Integrates a StopWordLoader that handles a custom list of 500+ noise words to optimize the index size and improve search precision.
-
+   
 Technical Specifications
 
     Lookup Complexity: O(log u) using BST.
@@ -41,3 +41,7 @@ The engine is a generalized framework designed for experimentation with differen
     Custom Dataset: Replace dataset.csv with your own data (Format: ID, Content).
 
     Custom Filtering: Modify stop.txt to update the noise-reduction pipeline.
+
+User Interface & Interaction
+
+    Hybrid Interaction Model: The system utilizes a Java Swing JFileChooser for intuitive dataset selection, paired with a high-performance Command Line Interface (CLI) for iterative query execution and performance profiling.
