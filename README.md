@@ -44,4 +44,6 @@ The engine is a generalized framework designed for experimentation with differen
 
 User Interface & Interaction
 
-    Hybrid Interaction Model: The system utilizes a Java Swing JFileChooser for intuitive dataset selection, paired with a high-performance Command Line Interface (CLI) for iterative query execution and performance profiling.
+    Hybrid Interaction Model: The system utilizes a Java Swing JFileChooser for intuitive dataset selection, paired with a high-performance Command Line Interfac<img width="2466" height="1102" alt="Screenshot 2026-03-31 154742" src="https://github.com/user-attachments/assets/e123e7ee-c952-4b2b-8b12-b9e29868dce0" />
+<img width="2448" height="1096" alt="Screenshot 2026-03-31 154707" src="https://github.com/user-attachments/assets/b2ecd867-842d-459e-9177-3a716aae9d81" />
+e (CLI) for iterative query execution and performance profiling.
